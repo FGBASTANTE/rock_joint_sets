@@ -38,7 +38,7 @@ conda install numpy matplotlib mplstereonet kmedoids
 Simply download and save the `rock_joint_sets.py` file in your working directory. You can then import it directly in your scripts or notebooks.
 
 
-## 📁 Input Format
+## 📁 Data Input Format
 
 The input should be a plain `.txt` file with each line containing a dip direction and dip angle, separated by whitespace or a custom delimiter:
 
