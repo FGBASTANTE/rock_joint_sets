@@ -18,20 +18,19 @@ For Educational Purposes
   - Density contours
   
 
-
 ## 🔧 Installation
 
 ### Step-by-step Setup
 
 1. **Create a new Python environment** (recommended):
 ```bash
-python -m venv rock_env
-source rock_env/bin/activate  # On Windows use: rock_env\Scripts\activate
+conda create -n sets_env
+conda activate sets_env
 ```
 
 2. **Install required dependencies**:
 ```bash
-pip install numpy matplotlib mplstereonet kmedoids
+conda install numpy matplotlib mplstereonet kmedoids
 ```
 
 3. **Download the module**:
