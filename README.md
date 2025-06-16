@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/336681d3-6df2-4d2f-86ec-f1ba19c47c65)
+
+
 # Rock Joint Sets Analyzer
 
 This Python module provides a flexible workflow for analyzing geological joint sets from dip-direction/dip measurements. By integrating stereographic projection and clustering algorithms from `mplstereonet`and `kmedoids` packages, it enhances the estimation of joint set families — offering greater control and adaptability in the analysis process. Visualization is handled using the `mplstereonet` package, which supports stereonet plotting of planes, poles, and cluster centroids.
